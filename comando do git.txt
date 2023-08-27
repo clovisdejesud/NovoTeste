@@ -1,0 +1,11 @@
+Git hub
+
+Comandos:
+Para criar uma pasta
+primeiro criar uma pasta/ Depois abrir a pasta/ Na pasta clicar com o botão direito/clicar em GIT BASH HERE (criar uma linha de comando na pasta) 
+/se abre uma janela do git/digitar GIT INIT (na pasta que criamos o git será criada mas o arquivo é oculto/Nesta pasta que será arquivada qualquer arquivo que será versionado no GIT/
+
+Para criar uma versão:
+/digitar GIT STATUS (será mostrado todos os arquivos que não estão versionados
+/digitar: GIT ADD "NOME DO ARQUIVO" 
+/digitar GIT STATUS e o arquivo estará versionado
