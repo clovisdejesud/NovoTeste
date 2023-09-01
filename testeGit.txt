@@ -9,3 +9,9 @@ Para criar uma pasta:
 //GIT ADD "NOME DO ARQUIVO entre aspas duplas" /para adicionar o arquivo na pasta do GIT 
 //GIT ADD . /adiciona vários arquivos de uma vez
 
+//GIT COMMIT -M "digitar uma informação entre aspas duplas" /controle de versão
+
+//GIT CONFIG --GLOBAL USER.EMAIL "DIGITAR O EMAIL" //antes de dar o PUSH, ser for o caso
+//GIT CONFIG --GLOBAL USER.NAME "NOME USUARIO" //antes de dar o PUSH, se for o caso
+//GIT REMOTE ADD ORIGIN (copiar o link do GIT onde esta a pasta criada do projeto
+//GIT PUSH --SET-UPSTREAM ORIGIN MASTER
