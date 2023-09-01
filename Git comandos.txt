@@ -1,0 +1,25 @@
+Git hub
+
+Comandos:
+Para criar uma pasta:
+//primeiro criar uma pasta/Criar um arquivo se não houver
+//GIT BASH HERE /criar uma linha de comando na pasta
+//GIT INIT /Nesta pasta que será arquivada qualquer arquivo que será versionado no GIT
+//GIT STATUS /mostra o status do arquivo
+//GIT ADD "NOME DO ARQUIVO entre aspas duplas" /para adicionar o arquivo na pasta do GIT 
+//GIT ADD . /adiciona vários arquivos de uma vez
+//GIT ADD "NOME DO ARQUIVO" se for somente um arquivo
+//GIT COMMIT -M "dar um nome a nova versao, digitar entre duplas" /controle de versão
+
+//GIT CONFIG --GLOBAL USER.EMAIL "DIGITAR O EMAIL" //antes de dar o PUSH, ser for o caso
+//GIT CONFIG --GLOBAL USER.NAME "NOME USUARIO" //antes de dar o PUSH, se for o caso
+//GIT REMOTE ADD ORIGIN (copiar o link do GIT onde esta a pasta criada do projeto)
+//GIT PUSH --SET-UPSTREAM ORIGIN MASTER
+//GIT REGLOG mostra as versões
+//GIT RESET (digitar sem aspas o numero da versão que foi exibido no comando anterior)
+//GIT BRANCH (digitar um nome da branch, sem aspas) 
+  * Se digitar o comando GIT BRANCH aparecerá duas branch porém ainda estará na branch master
+//GIT CHECKOUT (nome dado a branch sem aspas)
+
+
+	
